@@ -12,3 +12,4 @@ C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Deb
 C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.pdb
 C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.genruntimeconfig.cache
 C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\ref\Combine_day_2_into_variables.dll
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.sourcelink.json

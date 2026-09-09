@@ -36,3 +36,25 @@ bool isItColdInHere = true; //Camel Case is when you have multiple words in a va
 Console.WriteLine(album);
 
 Console.WriteLine(isItColdInHere);
+
+Console.WriteLine("Israel " + "Espinoza");
+
+string firstName = "Isaiah";
+string LastName = "Ferguson";
+
+Console.WriteLine(firstName + " " + LastName);
+
+string fullName = "Jose " + "Martinez";
+
+Console.WriteLine(fullName);
+
+//string Interpolation is combine strings but we use $ {} to add varibles within the string.
+
+Console.WriteLine("One of CodeStacks Instructors is " + fullName);
+
+Console.WriteLine($"One of CodeStacks Instructors is {fullName}");
+
+Console.WriteLine("Please Enter The Number 45");
+
+//ReadLine can only be string
+string num = Console.ReadLine();
