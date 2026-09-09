@@ -1,0 +1,14 @@
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\bin\Debug\net10.0\Combine_day_2_into_variables.exe
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\bin\Debug\net10.0\Combine_day_2_into_variables.deps.json
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\bin\Debug\net10.0\Combine_day_2_into_variables.runtimeconfig.json
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\bin\Debug\net10.0\Combine_day_2_into_variables.dll
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\bin\Debug\net10.0\Combine_day_2_into_variables.pdb
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.AssemblyInfoInputs.cache
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.AssemblyInfo.cs
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.csproj.CoreCompileInputs.cache
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.dll
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\refint\Combine_day_2_into_variables.dll
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.pdb
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\Combine_day_2_into_variables.genruntimeconfig.cache
+C:\Users\Israel26\Desktop\Codestack combine\Combine_day_2_into_variables\obj\Debug\net10.0\ref\Combine_day_2_into_variables.dll

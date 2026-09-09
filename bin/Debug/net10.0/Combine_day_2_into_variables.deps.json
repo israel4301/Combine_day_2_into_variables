@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Combine_day_2_into_variables/1.0.0": {
+        "runtime": {
+          "Combine_day_2_into_variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Combine_day_2_into_variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
